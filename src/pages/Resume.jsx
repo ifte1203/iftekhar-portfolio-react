@@ -60,6 +60,10 @@ const Resume = () => {
             </div>
           </div>
 
+          <div className="text-center">
+            <a href="assets/resume/iftekhar_ahmed.pdf" className="btn btn-primary"><i className="bx bx-file-blank"></i> Download Resume</a>
+          </div>
+
         </div>
       </section>
       {/* <!-- End Resume Section --> */}
