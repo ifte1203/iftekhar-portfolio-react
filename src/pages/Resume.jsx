@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 const Resume = () => {
   return (
     <>
@@ -62,6 +64,9 @@ const Resume = () => {
 
           <div className="text-center">
             <a href="assets/resume/iftekhar_ahmed.pdf" className="btn btn-primary"><i className="bx bx-file-blank"></i> Download Resume</a>
+          </div>
+          <div className="text-center mt-3">
+            <NavLink to={"/works"} className="btn btn-info"><i className="bx bx-apk"></i> View All Apps</NavLink>
           </div>
 
         </div>

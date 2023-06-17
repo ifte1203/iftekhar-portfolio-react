@@ -16,7 +16,7 @@ const About = () => {
                             <img src="assets/img/profile-img.jpg" className="img-fluid" alt="" />
                         </div>
                         <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                            <h3>UI/UX Designer &amp; Web Developer.</h3>
+                            <h3>Full Stack Developer.</h3>
                             <p className="fst-italic">
                                 Innovative and deadline-driven Web Developer with 1+ years of experience designing and developing full stack application from initial concept to final, polished deliverable.
                             </p>
@@ -33,7 +33,7 @@ const About = () => {
                                     <ul>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23 As on 2023</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
-                                        <li><i className="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>iftekharahmed447@gmail.com</span></li>
+                                        <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>iftekharahmed447@gmail.com</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                                     </ul>
                                 </div>
